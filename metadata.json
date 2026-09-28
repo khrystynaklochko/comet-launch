@@ -1,0 +1,6 @@
+{
+  "name": "StratEngine — Startup Intelligence & Strategic Decision Engine",
+  "description": "Reverse-engineer company growth, reconstruct first 10 & 100 customer journeys, trace GTM engines, and make data-grounded strategic decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
